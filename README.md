@@ -1,16 +1,55 @@
 # domn-film-style-deconstruct
 
-> 独立技能仓库 · 来自 domn skills 集合（视频制作 域）
+![domn-film-style-deconstruct 封面](assets/readme/hero.webp)
 
-视觉风格逆向拆解，并拍成冷面吐槽式教程短片。当要把一种已经存在的视觉风格、类型片、导演风格或美学流派（日剧、韩剧、港片、王家卫、韦斯·安德森、北欧极简、赛博朋克、港风霓虹、胶片感…）拆成可执行的技术清单时使用；也用于把"大家都在吐槽的点"归回技术层、拍成好笑又能照着做的教程片。产出三份：拆解文档（定风格、取样、归因、参数化、验真）、冷面吐槽体口播文案（190–220 字/分钟）、生视频提示词（复刻镜／演示镜／对比镜）。笑点来自"这么郑重地讲一件大家都在笑的事"——拆得越认真，吐槽越好笑；但笑点只落在套路上，不落在人身上。
+> 视觉风格逆向拆解 + 冷面吐槽式教程短片。
 
-## 元信息
-- **领域**：视频制作
-- **触发/用途**：见上方说明
-- **标签**：—
+## 是什么
 
-## 使用方法
-将本仓库内容放入支持 `SKILL.md` 的 Agent 技能目录（如 WorkBuddy `~/.workbuddy/skills/`、Codex skills 目录）即可调用。
+视觉风格逆向拆解 + 冷面吐槽式教程短片。本仓库是一个 Agent 技能（SKILL.md 为唯一权威定义），把上面的方法论沉淀为可被对话触发的可执行流程。
+
+## 怎么做（工作流）
+
+<p align="center">
+  <img src="./assets/readme/workflow.svg" width="100%" alt="domn-film-style-deconstruct 工作流：拆风格 → 写文案 → 排分镜 → 生视频。群众已验证的吐槽点，效率最高">
+</p>
+
+1. **拆风格**
+2. **写文案**
+3. **排分镜**
+4. **生视频**
+
+## 怎么用
+
+将本仓库放入支持 `SKILL.md` 的 Agent 技能目录：
+
+- **WorkBuddy**：`~/.workbuddy/skills/domn-film-style-deconstruct/`
+- **Codex / 其他**：对应 skills 目录
+
+然后在对话中触发，例如：
+
+```
+用 domn-film-style-deconstruct 帮我处理一段需求。
+```
+
+## 依赖
+
+纯提示词方法论 + references/ 弹药库；出视频依赖视频生成模型.
+
+## 仓库结构
+
+```
+domn-film-style-deconstruct/
+├── SKILL.md                 # 技能定义（唯一权威）
+├── references/              # 方法论弹药库
+├── assets/                  # 模板 / 占位素材
+└── assets/readme/           # 本 README 的视觉资产（hero.webp / workflow.svg）
+```
+
+## 许可
+
+本仓库内容以 `SKILL.md` 为唯一权威定义。如附带 `LICENSE` 文件，以其为准。
 
 ---
-*本仓库由 domn skills 库导出，技能定义以 `SKILL.md` 为准。*
+
+*README 由 `beautify-github-readme` 生成 · 封面图来自作者作品集，强调色由封面图采样派生。*
