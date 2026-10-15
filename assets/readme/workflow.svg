@@ -1,36 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">domn-film-style-deconstruct 工作流</title>
-  <desc id="desc">视觉风格逆向拆解 + 冷面吐槽式教程短片。阶段：拆风格 → 写文案 → 排分镜 → 生视频。</desc>
-  <rect width="1200" height="320" rx="24" fill="#0C0F13"/>
-  <g id="title-block" transform="translate(56 40)">
-    <text x="0" y="14" fill="#7A8694" font-size="15" letter-spacing="2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">WORKFLOW · 1–4</text>
-    <text x="0" y="46" fill="#E8ECF1" font-size="23" font-weight="600" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">视觉风格逆向拆解 + 冷面吐槽式教程短片</text>
-  </g>
-  <g id="project-proof">
-    <line x1="120.0" y1="180" x2="1080.0" y2="180" stroke="#B86219" stroke-width="3"/>
-    <path d="M273.0 174 L287.0 180 L273.0 186 Z" fill="#B86219"/>
-    <path d="M593.0 174 L607.0 180 L593.0 186 Z" fill="#B86219"/>
-    <path d="M913.0 174 L927.0 180 L913.0 186 Z" fill="#B86219"/>
-    <g id="stage-1" transform="translate(120 180)">
-      <circle r="30" fill="#0C0F13" stroke="#2A3138" stroke-width="1.5"/>
-      <text x="0" y="8" fill="#B86219" font-size="24" font-weight="800" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">1</text>
-      <text x="0" y="238" fill="#E8ECF1" font-size="21" font-weight="600" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">拆风格</text>
-    </g>
-    <g id="stage-2" transform="translate(440 180)">
-      <circle r="30" fill="#0C0F13" stroke="#2A3138" stroke-width="1.5"/>
-      <text x="0" y="8" fill="#B86219" font-size="24" font-weight="800" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">2</text>
-      <text x="0" y="238" fill="#E8ECF1" font-size="21" font-weight="600" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">写文案</text>
-    </g>
-    <g id="stage-3" transform="translate(760 180)">
-      <circle r="30" fill="#0C0F13" stroke="#2A3138" stroke-width="1.5"/>
-      <text x="0" y="8" fill="#B86219" font-size="24" font-weight="800" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">3</text>
-      <text x="0" y="238" fill="#E8ECF1" font-size="21" font-weight="600" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">排分镜</text>
-    </g>
-    <g id="stage-4" transform="translate(1080 180)">
-      <circle r="30" fill="#B86219" stroke="#B86219" stroke-width="1.5"/>
-      <text x="0" y="8" fill="#0C0F13" font-size="24" font-weight="800" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">4</text>
-      <text x="0" y="238" fill="#E8ECF1" font-size="21" font-weight="600" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">生视频</text>
-    </g>
-  </g>
-  <g id="metadata"><text x="600" y="304" fill="#7A8694" font-size="18" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">群众已验证的吐槽点，效率最高</text></g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="100%" role="img" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif">
+<title>domn-film-style-deconstruct 工作流：定风格→取样→归因→参数化→验真→写文案分镜</title>
+<desc>拆解爆炸图：风格名→特征→技术项→参数链；专属度天平「换名即消失」剔除通用手艺。</desc>
+<rect width="0" height="0" fill="#0C0F13"/>
+<rect x="360" y="60" width="480" height="46" rx="8" fill="#1A1410" stroke="#B86219" stroke-width="2"/><text x="380" y="90" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="15" fill="#B86219" font-weight="700" text-anchor="start">STYLE</text><line x1="840" y1="83" x2="880" y2="83" stroke="#21262D" stroke-width="2"/><rect x="360" y="120" width="480" height="46" rx="8" fill="#0E141B" stroke="#B86219" stroke-width="2"/><text x="380" y="150" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="15" fill="#B86219" font-weight="700" text-anchor="start">FEATURES</text><line x1="840" y1="143" x2="880" y2="143" stroke="#21262D" stroke-width="2"/><rect x="360" y="180" width="480" height="46" rx="8" fill="#0E141B" stroke="#B86219" stroke-width="2"/><text x="380" y="210" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="15" fill="#B86219" font-weight="700" text-anchor="start">TECH ITEM</text><line x1="840" y1="203" x2="880" y2="203" stroke="#21262D" stroke-width="2"/><rect x="360" y="240" width="480" height="46" rx="8" fill="#101810" stroke="#B86219" stroke-width="2"/><text x="380" y="270" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="15" fill="#B86219" font-weight="700" text-anchor="start">PARAMETER</text><line x1="840" y1="263" x2="880" y2="263" stroke="#21262D" stroke-width="2"/><polygon points="220,90 290,200 150,200" fill="none" stroke="#B86219" stroke-width="2"/><line x1="150" y1="200" x2="290" y2="200" stroke="#7E8794" stroke-width="2"/><circle cx="220" cy="90" r="8" fill="#B86219" stroke="none" stroke-width="2"/><text x="170" y="240" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="13" fill="#B86219" font-weight="700" text-anchor="middle">换名即消失?</text><text x="170" y="262" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="12" fill="#7E8794" font-weight="400" text-anchor="middle">专属度检验</text><text x="560" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="15" fill="#B86219" font-weight="700" text-anchor="start">拆解爆炸图 · 归因到技术项</text><text x="560" y="315" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="13" fill="#7E8794" font-weight="400" text-anchor="start">特征 → 运镜/光位/表演 → 可执行参数(3200K 侧逆光)</text>
 </svg>
